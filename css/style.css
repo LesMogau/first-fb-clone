@@ -150,7 +150,7 @@ form .new__acc {
   padding-left: 20px;
 
 }
-@media (max-width: 420px) {
+@media (max-width: 720px) {
   .left,
   .right {
     flex: 100%;
