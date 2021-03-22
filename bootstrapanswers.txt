@@ -1,0 +1,35 @@
+ADVANTAGES OF BOOTSTRAP
+
+1)i found it a bit easier to use even thou this was my first encounter 
+with mobile optimization with it,you can utelise it alongside the use of sass and css 
+
+2) its responsiveness is very fluid and
+you can recognize the number of spots in the grid system that you would like each column to engage in.
+Then only you can identify at whichever point you would like your columns to load in horizontal position,
+instead of vertically to exhibit accurately on mobile appliances.
+
+
+3) the speed of the development has been increased because it lets you to use ready-made coding blocks 
+in order to assist you in setting up. You can blend that along with CSS-Less functionality 
+and cross-browser compatibility that can give way to saving of ample hours of coding. 
+
+4)Bootstrap has the capability to utilize columns grid that is responsive. 
+It also upholds offset and nested elements. 
+The grid can be maintained in a responsive mode, 
+or you can simply modify it to a secured layout.
+
+6)Bootstrap has these pre-styled components for alerts, 
+dropdowns, nav bars, etc.
+ Hence, being a feature-rich 
+
+
+DISADVANTAGES OF BOOTSRAP
+
+1)Require more style overrides which causes code redundancies
+
+2)Without Style Customization Your Sites Will Look the Same
+
+3) you still have to invest some time into it. 
+You need to know all the available Bootstrap CSS classes
+but also just how Bootstrap components access these classes. 
+You’ll also need some time to experiment with and get used to the grid system.
